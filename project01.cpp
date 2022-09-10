@@ -4,6 +4,7 @@ int main()
    // a comment in the master branch
    int master1 = 100;
    int goKerry = 1;
+   int new1 = 110;
    char boringMe = 'a';
    std::string myCode [] = {
       "#include <iostream>",
