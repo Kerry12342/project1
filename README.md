@@ -36,10 +36,10 @@ So I think “-force” is what I need. So I did the following command.
  ```
 It worked. But after I tried to change from the working of my master branch to checkout my new branch, terminal showed me the same error saying that I need to commit my changes before switch branches. So I tried to just do a normal commit without the “-force.” It worked this time and I pushed the change into my master branch. Then I tried to merge the new branch into my master branch. It finally worked and now in my master branch, I got this lines bellow, regarding the merge:
 
-> <<<<<<< HEAD
-> <<<<<<< HEAD
->    // a comment in the master branch 
-> =======
->   // I added something here.
-> >>>>>>> new
+> |<<<<<<< HEAD
+> |<<<<<<< HEAD
+> |   // a comment in the master branch 
+> | =======
+> |  // I added something here.
+> |>>>>>>> new
 In Atom, the two part of changes are colored differently with one “use me” near each of them. The change I made in master branch is colored in purple background the the change in new branch colored blue.
