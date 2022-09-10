@@ -1,9 +1,8 @@
 nclude <iostream>
 int main()
 {
-   // I added something here.
+   // I added a new comment in new.
    int goKerry = 1;
-   int new1 = 110;
    char boringMe = 'a';
    std::string myCode [] = {
       "#include <iostream>",
