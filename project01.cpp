@@ -1,6 +1,7 @@
 nclude <iostream>
 int main()
 {
+   // I added something here.
    int goKerry = 1;
    char boringMe = 'a';
    std::string myCode [] = {
