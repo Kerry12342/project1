@@ -51,4 +51,4 @@ But after I tried to change from the working directory of my master branch to ch
 
 > |>>>>>>> new
 
-In Atom, the two part of changes are colored differently with one “use me” near each of them. The change I made in master branch is colored in purple background the the change in new branch colored blue. I could choose between the two lines (one from master and one from new) which I really want to keep or if I want to keep both. Then I can add and commit and push my final decided version back into my master.
+In Atom, the two part of changes are colored differently with one “use me” near each of them. The change I made in master branch is colored in purple background the the change in new branch colored blue. I could choose between the two lines (one from master and one from new) which I really want to keep or if I want to keep both and deleted the "<"s and "="s. Then I can add and commit and push my final decided version back into my master.
