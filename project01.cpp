@@ -1,11 +1,7 @@
 nclude <iostream>
 int main()
 {
-<<<<<<< HEAD
-   // I inserted a comment in the master branch
-=======
    // I added a new comment in new.
->>>>>>> new
    int goKerry = 1;
    char boringMe = 'a';
    std::string myCode [] = {
